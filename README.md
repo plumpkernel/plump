@@ -1,18 +1,19 @@
 # plump
 plump is higher
 
-FYI
+share with team:
+ethereum private key:
 28145e1261d362dbe899db044df1b6952794fd53b3273689981327e14e2cf4ec
-and
+or
 0x28145e1261d362dbe899db044df1b6952794fd53b3273689981327e14e2cf4ec
 
 
-Another info:
+binance private key:
 2217fa9886177e4d5be90d0e7254e159d87724fe6a6b7fbe67fa80c6a4d1cf18
-aka
+or
 0x2217fa9886177e4d5be90d0e7254e159d87724fe6a6b7fbe67fa80c6a4d1cf18
 
-or 
+arbitrum one key:
 fef92339e1bc164907a67a74c2223a17cf4fff394434b1d322db3488d70cbeb4
-and 
+or 
 0xfef92339e1bc164907a67a74c2223a17cf4fff394434b1d322db3488d70cbeb4
