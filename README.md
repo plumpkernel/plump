@@ -1,8 +1,6 @@
 # plump
 plump is higher
 
-share with team:
-
 arbitrum one key:
 fef92339e1bc164907a67a74c2223a17cf4fff394434b1d322db3488d70cbeb4
 or 
